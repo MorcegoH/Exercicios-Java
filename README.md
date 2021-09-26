@@ -10,3 +10,4 @@ Será adicionado exercicios treinos conforme eu for fazendo.
 No momento temos
 - Jokenpo
 - Tabuada
+- Dado de 10 lados
