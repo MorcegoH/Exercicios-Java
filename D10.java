@@ -37,7 +37,7 @@ public class D10 {
         switch (opc) {
             case 1:
                 while (opc == 1) {
-                d10 = (int) (Math.random() * 10 + 1); // Math.random inicia-se no 0, entao a cadei de  fica de 0-9. Sendo necessario adicionar +1 para poder ficar corretamente
+                d10 = (int) (Math.random() * 10 + 1); 
                 System.out.println("O resultado eh: " + d10);
                 System.out.println("");
                 System.out.println("Deseja Jogar novamente?");
