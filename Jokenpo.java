@@ -1,9 +1,10 @@
-
+/**
+ * POO - Exercicio Jokenpo
+ */
 package desafios;
 
 import java.util.Scanner; //Necessario para usar a classe.
 
-// Programa para jogar Jokenpo.
 // 3 partes;
 // 1 - Captura da escolha do jogador
 // 2 - Sorteio da opcao do computador
