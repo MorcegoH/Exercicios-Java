@@ -1,13 +1,13 @@
 
 package desafios;
 
-import java.util.Scanner; //Necessário para usar a classe.
+import java.util.Scanner; //Necessario para usar a classe.
 
 // Programa para jogar Jokenpo.
 // 3 partes;
 // 1 - Captura da escolha do jogador
-// 2 - Sorteio da opção do computador
-// 3 - Verificação das escolhas para gerar o resultado
+// 2 - Sorteio da opcao do computador
+// 3 - Verificacao das escolhas para gerar o resultado
 
 public class Jokenpo {
 
