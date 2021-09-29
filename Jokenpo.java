@@ -45,7 +45,7 @@ public class Jokenpo {
 		System.out.println("");
 		// Parte 2;
 
-		cpu = (int) (Math.random() * 3 + 1); // Math.random escolhe entre 3 nsº aleatório entre 0,1,2, para ficar de 1,2,3 é necessário acrescentar o +1, assim fica a opção +1 para o resultado.
+		cpu = (int) (Math.random() * 3 + 1); 
 		teclado.close();
 		switch (cpu) {
 		case 1:
